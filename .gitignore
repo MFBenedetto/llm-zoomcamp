@@ -1,3 +1,6 @@
 H2/ollama_files/*
 .venv
 poetry.lock
+poetry.lock
+.vscode/settings.json
+poetry.lock
