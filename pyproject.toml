@@ -13,6 +13,7 @@ elasticsearch = "^8.14.0"
 tqdm = "^4.66.4"
 tiktoken = "^0.7.0"
 sentence-transformers = "^3.0.1"
+rouge = "^1.0.1"
 
 
 [tool.poetry.group.dev.dependencies]
